@@ -180,6 +180,7 @@ button .halo {
         width: 100%;
     }
     table{
+        width: auto;
         font-size: 14px;
         margin-left: 10px;
     }

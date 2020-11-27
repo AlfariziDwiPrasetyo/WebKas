@@ -164,12 +164,6 @@ button .halo {
 }
 
 @media only screen and (max-width: 600px){
-    ::-webkit-scrollbar{
-        width: 10px;
-    }
-    ::-webkit-scrollbar-thumb{
-        background: rgb(12,0,54);
-    }
     .navWrap{
         display: none;
     }
@@ -183,12 +177,11 @@ button .halo {
         margin-top: 10px;
     }
     .daftar-siswa{
-        width: 80%;
+        width: 100%;
     }
     table{
-        overflow-x:auto;
         font-size: 14px;
-        margin-left: 20px;
+        margin-left: 10px;
     }
     .add {
         margin: 0;
